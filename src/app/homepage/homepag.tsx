@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Homepage = () => {
   return (
-    <div className="w-full h-[100vh] pt-[20px] md:pt-[50px] flex flex-col justify-between border border-green-800">
+    <div className="w-full h-[100vh] pt-[20px] md:pt-[50px] flex flex-col justify-between">
       <div className="w-full md:max-w-4xl mx-auto flex flex-col items-center">
         <Image
           src={dataLinktree?.header?.imgHeader}
