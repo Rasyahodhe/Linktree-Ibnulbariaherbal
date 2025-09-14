@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <div className="w-full h-[100vh] pt-[20px] md:pt-[50px]">
+    <div className="w-full h-[100vh] ">
       <Homepage />
     </div>
   );

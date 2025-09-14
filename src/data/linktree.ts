@@ -9,21 +9,25 @@ export const dataLinktree = {
     {
       name: "Instagram",
       link: "https://www.google.com",
+      bgcolorHover: "hover:bg-[#e1306c] hover:text-white",
       image: "/instagram.png",
     },
     {
       name: "Facebook Fan Base Kendari",
       link: "https://www.google.com",
+      bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
       image: "/facebook.png",
     },
     {
       name: "Facebook Fan Base Kendari",
       link: "https://www.google.com",
+      bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
       image: "/facebook.png",
     },
     {
       name: "Facebook Fan Base Bau-Bau",
       link: "https://www.google.com",
+      bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
       image: "/facebook.png",
     },
   ],
