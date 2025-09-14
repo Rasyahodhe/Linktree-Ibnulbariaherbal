@@ -47,7 +47,8 @@ const Homepage = () => {
       </div>
       <footer className="w-full">
         <p className="text-center text-sm bg-green-800 text-white">
-          &copy; {new Date().getFullYear()} IBNUL BARIA HERBAL
+          &copy; {new Date().getFullYear()} IBNUL BARIA HERBAL, Created By La
+          Ode Rahimsyah
         </p>
       </footer>
     </div>
