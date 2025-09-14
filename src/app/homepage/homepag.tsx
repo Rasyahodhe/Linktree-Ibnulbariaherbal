@@ -22,7 +22,7 @@ const Homepage = () => {
             {dataLinktree?.header?.description}
           </p>
         </div>
-        <div className="w-full p-4 md:w-full md:p-0">
+        <div className="w-full p-4 md:w-full md:p-0 md:mt-4">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-2">
             {dataLinktree?.linktree?.map((item, index) => (
               <Link
@@ -37,7 +37,7 @@ const Homepage = () => {
                   height={100}
                   className="animate-zoom-in rounded-lg w-6 h-6"
                 />
-                <p className="flex items-center justify-center text-center font-bold text-sm sm:text-[10px] animate-opacity-play h-6">
+                <p className="flex items-center justify-center text-center font-bold text-sm sm:text-[13px] animate-opacity-play h-6">
                   {item?.name}
                 </p>
               </Link>
@@ -45,10 +45,12 @@ const Homepage = () => {
           </div>
         </div>
       </div>
-      <footer className="w-full">
-        <p className="text-center text-sm bg-green-800 text-white">
-          &copy; {new Date().getFullYear()} IBNUL BARIA HERBAL, Created By La
-          Ode Rahimsyah
+      <footer className="w-full bg-green-800">
+        <p className="text-center text-sm  text-white">
+          &copy; {new Date().getFullYear()} IBNUL BARIA HERBAL
+        </p>
+        <p className="text-center text-sm text-white">
+          Created By La Ode Rahimsyah
         </p>
       </footer>
     </div>
