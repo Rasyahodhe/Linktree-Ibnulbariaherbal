@@ -8,28 +8,23 @@ export const dataLinktree = {
   linktree: [
     {
       name: "Instagram",
-      link: "https://www.google.com",
+      link: "https://www.instagram.com/herbal_ibnulbaria?utm_source=qr&igsh=dzNvaHhzbmJkenJ0",
       bgcolorHover: "hover:bg-[#e1306c] hover:text-white",
       image: "/instagram.png",
     },
     {
       name: "Facebook Kendari",
-      link: "https://www.google.com",
+      link: "https://web.facebook.com/profile.php?id=61578415074932",
       bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
       image: "/facebook.png",
     },
     {
       name: "Facebook Raha",
-      link: "https://www.google.com",
+      link: "https://web.facebook.com/profile.php?id=61578070242912",
       bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
       image: "/facebook.png",
     },
-    {
-      name: "Facebook Bau-Bau",
-      link: "https://www.google.com",
-      bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
-      image: "/facebook.png",
-    },
+
     {
       name: "Shopee",
       link: "https://shopee.co.id/ibherbalstore1?entryPoint=ShopBySearch&searchKeyword=ib%20herbal%20store",
@@ -37,20 +32,8 @@ export const dataLinktree = {
       image: "/shopee.png",
     },
     {
-      name: "CS Kendari",
-      link: "https://www.google.com",
-      bgcolorHover: "hover:bg-[#30e18a] hover:text-white",
-      image: "/whatsapp.png",
-    },
-    {
-      name: "CS Raha",
-      link: "https://www.google.com",
-      bgcolorHover: "hover:bg-[#30e18a] hover:text-white",
-      image: "/whatsapp.png",
-    },
-    {
-      name: "CS Baubau",
-      link: "https://www.google.com",
+      name: "Admin Ibnul Baria",
+      link: "https://wa.link/w1w3im",
       bgcolorHover: "hover:bg-[#30e18a] hover:text-white",
       image: "/whatsapp.png",
     },
