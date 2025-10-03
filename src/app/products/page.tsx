@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import ProductsPage from "@/app/products/products";
 export const metadata: Metadata = {
   title: "Products",
   description: "Products",
@@ -8,5 +9,9 @@ export const metadata: Metadata = {
 };
 
 export default function Product() {
-  return <div>Product</div>;
+  return (
+    <div>
+      <ProductsPage />
+    </div>
+  );
 }

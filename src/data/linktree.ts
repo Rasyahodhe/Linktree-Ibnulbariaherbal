@@ -32,6 +32,12 @@ export const dataLinktree = {
       image: "/shopee.png",
     },
     {
+      name: "Tokopedia",
+      link: "https://www.tokopedia.com/grosirherbalnasional",
+      bgcolorHover: "hover:bg-[#e18830] hover:text-white",
+      image: "/tokopedia.png",
+    },
+    {
       name: "Admin Ibnul Baria",
       link: "https://wa.link/w1w3im",
       bgcolorHover: "hover:bg-[#30e18a] hover:text-white",
