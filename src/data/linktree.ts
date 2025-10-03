@@ -13,18 +13,11 @@ export const dataLinktree = {
       image: "/instagram.png",
     },
     {
-      name: "Facebook Kendari",
+      name: "Facebook",
       link: "https://web.facebook.com/profile.php?id=61578415074932",
       bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
       image: "/facebook.png",
     },
-    {
-      name: "Facebook Raha",
-      link: "https://web.facebook.com/profile.php?id=61578070242912",
-      bgcolorHover: "hover:bg-[#3091e1] hover:text-white",
-      image: "/facebook.png",
-    },
-
     {
       name: "Shopee",
       link: "https://shopee.co.id/ibherbalstore1?entryPoint=ShopBySearch&searchKeyword=ib%20herbal%20store",
