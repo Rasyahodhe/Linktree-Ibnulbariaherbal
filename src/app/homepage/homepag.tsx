@@ -15,12 +15,12 @@ const Homepage = () => {
           className="animate-zoom-in rounded-lg"
         />
         <div>
-          <h1 className="transition-all duration-150 text-2xl sm:text-3xl font-bold text-center text-green-800">
+          <h1 className="transition-all duration-150 text-3xl sm:text-4xl font-bold text-center text-green-800">
             {dataLinktree?.header?.title}
           </h1>
-          <p className="text-center font-bold text-sm sm:text-lg animate-opacity-play">
+          {/* <p className="text-center font-bold text-sm sm:text-lg animate-opacity-play">
             {dataLinktree?.header?.description}
-          </p>
+          </p> */}
         </div>
         <div className="w-full p-4 md:w-full md:p-0 md:mt-4">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-2">
